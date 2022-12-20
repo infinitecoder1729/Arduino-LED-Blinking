@@ -9,10 +9,10 @@ Description of the Circuit and Code :
 
 1) Pins 10 and 11 are used as output pins.
 2) The LEDs are connected to the Voltage Source through Resistors
-3) The Code is implemented in a manner that a cycle of 20 commands is defined for alternate on and off
+3) The Code is implemented in a manner that a cycle of commands is defined for alternate on and off
 
 Video of Simulation :
 
-
 https://user-images.githubusercontent.com/77016507/208683407-c9b15812-722c-47cd-9e8a-d231fbb83202.mp4
 
+Link to TinkerCAD : https://www.tinkercad.com/things/fWnkmGHHM6N?sharecode=CeaYP2W57UqPDUCkyF5if6O_baGGTSHmbQ2kfnOierw
